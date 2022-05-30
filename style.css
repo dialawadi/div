@@ -1,0 +1,13 @@
+.one {
+    cursor: pointer;
+    position: relative;
+}
+
+
+.text.hide {
+    display: none;
+}
+
+i.rotate {
+    transform: rotate(90deg);
+}
